@@ -1,1 +1,1 @@
-Readme for "Search fauntains" subproj of "Beagle".
+Readme for "Search fauntains" subproj of "Beagle"
