@@ -1,0 +1,22 @@
+{
+  "name": "drinking-fountains",
+  "version": "1.0.0",
+  "description": "Readme for \"Search fauntains\" subproj of \"Beagle\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xUkroPx/beagle-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xUkroPx/beagle-one/issues"
+  },
+  "homepage": "https://github.com/xUkroPx/beagle-one#readme",
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
+}
